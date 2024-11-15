@@ -1,3 +1,3 @@
-# _MemoriceJS_
+# **_MemoriceJS_**
 
 **_APRENDE a CREAR este JUEGO paso a paso usando HTML + CSS + Javascript!_**
